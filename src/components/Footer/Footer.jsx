@@ -17,17 +17,17 @@ const Footer = () => {
             Fill your house and workplace with pleasant and beautiful plants.
           </p>
           <div className="socials">
-            <Link to="https://github.com/pranita09">
+            <Link to="https://github.com/RAGUL085">
               <p>
                 <GitHubIcon />
               </p>
             </Link>
-            <Link to="https://twitter.com/pranita0709">
+            <Link to="https://twitter.com">
               <p>
                 <TwitterIcon />
               </p>
             </Link>
-            <Link to="https://www.linkedin.com/in/pranita-fulsundar-8952711a6/">
+            <Link to="https://www.linkedin.com">
               <p>
                 <LinkedInIcon />
               </p>
@@ -55,13 +55,13 @@ const Footer = () => {
               <div className="contact-icon">
                 <FmdGoodIcon />
               </div>
-              <p>201 Oakbrook Center, Indiana</p>
+              <p>1/11 West Masi street,Madurai,Bharath. </p>
             </div>
             <div className="contact-mode">
               <div className="contact-icon">
                 <CallIcon />
               </div>
-              <p>+91 23453 98765</p>
+              <p>+91 96298 20305</p>
             </div>
             <div className="contact-mode">
               <div className="contact-icon">

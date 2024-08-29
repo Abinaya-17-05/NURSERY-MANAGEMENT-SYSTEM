@@ -17,8 +17,8 @@ const LogIn = () => {
   document.title = "Login | Plantique";
 
   const guestUserDetails = {
-    email: "monikashah@gmail.com",
-    password: "Monika@123Shah",
+    email: "ragul6320182@gmail.com",
+    password: "1234567",
   };
 
   const loginFormInputHandler = (event) => {
